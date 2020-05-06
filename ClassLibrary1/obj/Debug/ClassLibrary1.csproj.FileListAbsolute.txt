@@ -1,0 +1,9 @@
+E:\Repos\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Repos\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Repos\WpfApp1\ClassLibrary1\bin\Debug\nunit.framework.dll
+E:\Repos\WpfApp1\ClassLibrary1\bin\Debug\nunit.framework.pdb
+E:\Repos\WpfApp1\ClassLibrary1\bin\Debug\nunit.framework.xml
+E:\Repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\Repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+E:\Repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
